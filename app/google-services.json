@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:276243898034:android:412fd333152c8cceb473ab",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.selimcinar.kotlininstagramclone"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDlWmd0dhtbLoopViUtJwRhl5l95JWwypE"
+          "current_key": ""
         }
       ],
       "services": {
